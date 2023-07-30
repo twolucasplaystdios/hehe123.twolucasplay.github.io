@@ -2,3 +2,15 @@ body {
     background-color: rgb(226, 226, 226);
     color: rgb(91, 99, 91);
 }
+
+a {
+    transition: 0.5s;
+    background-color: rgb(226, 226, 226);
+    color: rgb(96, 128, 96);
+}
+
+a:hover {
+    transition: 0.5s;
+    color: rgb(226, 226, 226);
+    background-color: rgb(96, 128, 96);
+}
